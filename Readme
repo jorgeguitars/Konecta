@@ -1,0 +1,7 @@
+se realiza un sistema en php nativo y msql en el cual los articulos se pueden comprar.
+este guarda un registro en la tabla de ventas y actualiza el campo de stock
+
+se deja la configuracion la base de datos en el git lo mismo que el desarrollo
+
+php 8
+mysql
